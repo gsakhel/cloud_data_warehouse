@@ -1,0 +1,5 @@
+dwh_with_secrets.cfg
+data_warehouse.log
+
+# Folders
+__pycache__/
